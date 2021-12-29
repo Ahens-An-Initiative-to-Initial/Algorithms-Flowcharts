@@ -1,6 +1,6 @@
 <h1 align="center"><B>ALGORITHM AND FLOWCHART </B></h1>
 
-## <i>Write alogorithm and flowchart to check a number is even or odd.</i>
+## <i>Write algorithm and flowchart to check a number is even or odd.</i>
 Step 1: Start
 
 Step 2: Input a number x.
