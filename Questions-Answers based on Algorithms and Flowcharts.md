@@ -7,7 +7,7 @@ Step 2: Input a number x.
 
 Step 3: if x % 2 = 0 goto step 4 otherwise goto step 5.
 
-Step 4: Print Even.
+Step 4: Print Even and goto Step 6.
 
 Step 5: Print Odd.
 
@@ -30,7 +30,7 @@ Step 4: If mark >=60 and mark < 80 print "merit" and goto step 7 otherwise goto 
 
 Step 5: If mark >=40 and mark < 60 print "pass"  and goto step 7 otherwise goto step 6.
 
-Step 6: if mark < 40 print "fail" and goto step 7.
+Step 6: if mark < 40 print "fail".
 
 Step 7: End.
 
@@ -56,7 +56,7 @@ Step 5: If category = 'B' then display "insurance is normal" and goto step 8 oth
 
 Step 6: If category = 'M' then display "insurance is medically dependent" and goto step 8 otherwise go to step 7.
 
-Step 7: Display "entry invalid" and goto step 8.
+Step 7: Display "entry invalid".
 
 Step 8: End.
 
